@@ -1,0 +1,19 @@
+GIT
+  remote: https://github.com/zilverline/mt940.git
+  revision: b506f119b45439b32be35bce5ac55c75d6e84dd7
+  specs:
+    mt940 (2.0.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    builder (3.2.2)
+    smarter_csv (1.0.19)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  builder
+  mt940!
+  smarter_csv
