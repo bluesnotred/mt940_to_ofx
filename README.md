@@ -1,3 +1,7 @@
+**UPDATE**: If your bank support camt.053 exports, please look at:
+https://github.com/bluesnotred/camt2ofx
+====================================================================================
+
 # MT940_to_OFX (compatible with Xero)
 
 We use this script to convert Dutch MT940 files to OFX files, in such a way that they can be imported by the accounting software **Xero**. At the request of other Dutch Xero users, we published the script on this site.
